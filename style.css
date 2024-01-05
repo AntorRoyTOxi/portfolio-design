@@ -115,7 +115,8 @@ nav li{
                  margin-top: 80px; 
                  width: 1140px;
                  height: 550px; 
-                  margin-left: 250px;
+                  margin: 0 auto; 
+                   margin-top: 100px;
                  
             } 
               .section2{
@@ -136,4 +137,94 @@ nav li{
                 font-weight: 400;
                 line-height: 30px; 
                  padding: 0px 156px;
-              }
+              } 
+               .lastpart{
+                 display: flex; 
+                 justify-content: space-around; 
+                  margin-top: 35px;
+               } 
+                .last-title{ 
+                     text-align: center;
+                } 
+                 .lasthead{ 
+                    padding-bottom: 0; 
+                     height: 5px;
+                 }
+                  .last-steps{ 
+                     padding-top: 0;
+                  }  
+
+
+
+                   /* what i do part */ 
+                      .top{ 
+                        color:#181818;
+                        text-align: center;
+                     
+                           font-size: 35px;
+                       
+                          font-weight: 700; 
+                           margin-top: 80px;
+                      
+                      } 
+                        .toper-por{
+                           width: 900px; 
+                           margin-left: 350px;
+     
+                                         }
+
+                      
+                        .second-pera{  
+                            color:  #757575;
+                            
+                           
+                            font-size: 18px;
+                           
+                            font-weight: 400; 
+                             text-align: center; 
+                                    padding: 30px 346px;
+
+
+                             
+                             
+                        } 
+                         .skill{
+                             display: flex; 
+                               
+                              margin-left: 200px;
+                         } 
+                          .skill1{
+                            width: 267px;
+                            height: 377px; 
+                            margin: 20px; 
+                             background-color: #FFF; 
+                              border-radius: 5px;
+                             box-shadow: 0px 6px 50px 0px rgba(0, 0, 0, 0.06);
+                          }  
+                           .skill  img{
+                             height: 44px; 
+                              width: 44px; 
+                               margin-top: 30px;  
+                                margin-left: 30px;
+                              
+                           }
+                           .skill h4{ 
+                            color:  #181818;
+                          
+                     
+                            font-size: 20px;
+                           
+                            font-weight: 700; 
+                            padding-left: 30px;
+                        
+                           } 
+                            .skill p{ 
+                                color: #757575;
+                                
+                                font-size: 16px;
+                               
+                                font-weight: 400; 
+                                  padding-right: 7px;
+                                  padding-left: 30px;
+                            
+                            }
