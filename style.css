@@ -325,7 +325,7 @@ nav li{
      background-color: #FFF8F3; 
       margin-top: 100px;
      padding: 130px 200px; 
-     gap: 10px;
+     gap: 100px;
     
   
  }
@@ -340,18 +340,38 @@ nav li{
              text-align: center;
            
          }
+         .last-form-tag input[type="text"], .last-form-tag input[type="email"], textarea{
+             display: block; 
+              margin-bottom: 24px; 
+               padding: 18px 35px;
+               border-radius: 5px;
+               background:  #FFF; 
+                border: none; 
+                  width: 100%;
+         }
 
-
+.baton6{
+   background-color:  #FD6E0A; 
+   border-radius: 5px; 
+       border: 0; 
+         color: white;
+      font-size: 20px;
+       font-weight: 700; 
+      padding: 15px 35px; 
+}
 
  
          .img-width{ 
              height: 24px; 
-              width: 24px;
+              width: 24px; 
+               margin-right: 24px;
           } 
          .footer-details{
      text-align: center;
          }
-          
+          .last-part{ 
+             width: 50%;
+          }
                                                  
                                        
                                       
